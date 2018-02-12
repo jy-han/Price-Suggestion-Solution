@@ -1,4 +1,4 @@
-# mercari2018
+# Mercari Price Suggestion Challenge
 This is the source code of Kaggle competition: Mercari Price Suggestion Challenge.
 The goal is to build an algorithm that automatically suggests the right product prices, based on  provided user-inputted text 
 descriptions of their products, including details like product category name, brand name, and item condition. 
